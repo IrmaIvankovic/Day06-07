@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.column{
+
+    float: left;
+    width: 33.3%;
+    padding: 10px;
+        
+}
+
+.column img {
+
+height: 300px;
+  }
+
+
+
+h1{
+
+color: red;
+font-size: large;
+text-align: center
+
+}
+
+h4{
+
+color: lightskyblue;
+margin: 5px;
+
+}
+
+p{
+
+text-align: justify;
+width: 95%;
+margin: 5px;
+
+}
+
